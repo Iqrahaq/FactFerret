@@ -1,5 +1,3 @@
-# FactFerret
-
 <p align="center">
   <img src="/img/comingsoon.jpg" alt="FactFerretIcon" width="200" height="auto">
 </p>
