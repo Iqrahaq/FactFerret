@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center">FactFerret Bot is a discord bot that has been designed to provide a variety of Facts of the Day within servers.</p>
+<p align="center">FactFerret Bot is a discord bot that has been designed to provide a fact every day from various categories within servers.</p>
 
 ## Prerequisites
 
