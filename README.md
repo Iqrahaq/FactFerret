@@ -46,7 +46,7 @@ Option to change prefix.
 **Iqra Haq** - Student @ Northumbria University, Newcastle upon Tyne, UK.
 
 ## Credits
-**Bhavya** - Vector Designer ( <a href="https://saibiscus.carrd.co/">Bhavya's Personal Website</a> ).
+**Bhavya** - Vector Designer ( <a href="https://saibiscus.carrd.co/">Bhavya's Personal Website</a> && <a href="https://www.instagram.com/saibiscus/">Bhavya's Instagram</a>).
 
  **dwyl** - Quotes via ( <a href="https://github.com/dwyl/quotes">Github</a> ).
  
