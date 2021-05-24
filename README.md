@@ -1,7 +1,7 @@
 # FactFerret
 
 <p align="center">
-  <img src="/img/factferret.png" alt="FactFerretIcon" width="200" height="auto">
+  <img src="/img/comingsoon.jpg" alt="FactFerretIcon" width="200" height="auto">
 </p>
 
 <h1 align="center" style="font-weight: bold;">
