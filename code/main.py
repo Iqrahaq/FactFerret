@@ -19,11 +19,8 @@ CURRENT_FACT = None
 NO_SOURCE = False
 FACTS = []
 
-intents = discord.Intents.default()
-intents.members = True
-
 # Command prefix
-client = commands.Bot(command_prefix=COMMAND_PREFIX, intents=intents)
+client = commands.Bot(command_prefix=COMMAND_PREFIX)
 
 # Helpful loading prompt.
 print("Starting bot...")
