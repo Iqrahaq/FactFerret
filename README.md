@@ -12,12 +12,11 @@
     <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   </a>
   <a href"=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F" alt="Hits">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F" alt="Views">
    </a>
   <a href="https://img.shields.io/github/license/Iqrahaq/FactFerret">
     <img src="https://img.shields.io/github/license/Iqrahaq/FactFerret" alt="License">
   </a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 </p>
 
 <p align="center">FactFerret Bot is a discord bot that has been designed to provide a fact every day from various categories within servers.</p>
