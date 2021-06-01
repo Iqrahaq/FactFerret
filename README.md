@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   </a>
   <a href"=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F" alt="Views">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIqrahaq%2FFactFerret%2F&title=views" alt="Views">
    </a>
   <a href="https://img.shields.io/github/license/Iqrahaq/FactFerret">
     <img src="https://img.shields.io/github/license/Iqrahaq/FactFerret" alt="License">
