@@ -41,7 +41,7 @@ Option to change prefix.
 
 
 ## Authors
-**Iqra Haq** - Student @ Northumbria University, Newcastle upon Tyne, UK.
+**Iqra Haq** - Cyber Security Consultant & Passionate Programmer based in Newcastle upon Tyne, UK.
 
 ## Credits
 **Bhavya** - Vector Designer ( <a href="https://saibiscus.carrd.co/">Bhavya's Personal Website</a> && <a href="https://www.instagram.com/saibiscus/">Bhavya's Instagram</a>).
