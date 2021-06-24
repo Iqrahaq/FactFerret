@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/comingsoon.jpg" alt="FactFerretIcon" width="200" height="auto">
+  <img src="/img/Square Logo PNG.png" alt="FactFerretIcon" width="350" height="auto">
 </p>
 
 <h1 align="center" style="font-weight: bold;">
