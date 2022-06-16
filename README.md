@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/Square Logo PNG.png" alt="FactFerretIcon" width="350" height="auto">
+  <img src="/img/Circle Logo PNG.png" alt="FactFerretIcon" width="350" height="auto">
 </p>
 
 <h1 align="center" style="font-weight: bold;">
@@ -44,7 +44,7 @@ Option to change prefix.
 **Iqra Haq** - Cyber Security Consultant & Passionate Programmer based in Newcastle upon Tyne, UK.
 
 ## Credits
-**Bhavya** - Vector Designer ( <a href="https://saibiscus.carrd.co/">Bhavya's Personal Website</a> && <a href="https://www.instagram.com/saibiscus/">Bhavya's Instagram</a>).
+**Bhavya** - Vector Designer ( <a href="https://saibiscus.carrd.co/">Bhavya's Personal Website</a> && <a href="https://www.instagram.com/saibiscus/">Bhavya's Instagram</a> ).
 
  **dwyl** - Quotes via ( <a href="https://github.com/dwyl/quotes">Github</a> ).
  
