@@ -21,6 +21,10 @@
 
 <p align="center">FactFerret Bot is a discord bot that has been designed to provide a fact every day from various categories within servers.</p>
 
+## Current Status
+
+**This project is now closed and bookworm bot is no longer supported.**
+
 ## Prerequisites
 
 <p align="center"> Command Prefix = "ff!"</p>
